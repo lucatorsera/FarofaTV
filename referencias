@@ -20,3 +20,17 @@ https://web.facebook.com/groups/VIDEOCIRCUITS/posts/1688143047907031/
 https://web.facebook.com/groups/VIDEOCIRCUITS/posts/2196167780437886/
 https://web.facebook.com/groups/VIDEOCIRCUITS/posts/1649171905137479/
 
+Arduino e Video
+https://sourceforge.net/p/arduino-tvout/wiki/Useage/ (TVout wiki)
+https://www.youtube.com/watch?v=ysMUZaUsUp0 (TVout com cor - Nabe_RMC)
+https://photos.google.com/share/AF1QipNKngOdXD0U9HmfIjQ1FxSkZpxus5Ys4eR3AuklIOX84B2JDc8nB6VQrYJ8avZvxw?pli=1&key=SU80NkVCRDdyV1l6Z0h4TlRSREN0bnFXcC1yel9R (repo do Nabe)
+https://forum.arduino.cc/t/ntsc-video-out-library/8878?page=4 (post do TVout no forum do arduino)
+https://forum.arduino.cc/t/tvout-colors/65357/69 (post no forum sobre cores e TVout)
+https://forum.arduino.cc/t/madness-attiny13a-vga-driver-40-40-pixels-in-8-colours/278799 (ATiny gerando VGA)
+http://www.linusakesson.net/scene/bitbanger/index.php (video com ATtiny)
+https://forum.arduino.cc/t/vga-library-for-arduino-uno-and-atmega328/308936 (VGAx forum)
+https://github.com/smaffer/vgax (VGAx no git)
+http://www.gammon.com.au/forum/?id=11608 (como gerar VGA explicadinho no arduino)
+https://github.com/smaffer/espvgax (VGA com esp)
+
+
